@@ -1,0 +1,6 @@
+## Modelo de arquivo `pesquisa.md`
+# Pesquisa — Fork e Fluxos de Versionamento
+Autores: Daniel Monteiro de Andrade, Davi Paraiso Freitas da Silva
+Turma: 2°L
+
+Fork define-se em uma cópia independente de um repositório do GitHub, no qual permite a modificação do projeto sem afetar o original - é útil para contribuição em outros projetos, pois ajuda na melhoria e avanço do projeto sem modificar o original, servindo como um protótipo. Enquanto Fork cria uma cópia independente, Clone baixa o repositório escolhido na máquina local, e branch é uma ramificação dentro do mesmo repositório para trabalhar em uma parte isolada. GitHub Flow é uma versão mais simples, direcionada a features e deploy, referenciando as funcionalidades e suas aplicações. Já o Git Flow tem branches main, develop e release, aprimorando a formalidade, Main contendo o código em produção, onde todas as novas funcionalidades são implementadas e Develop sendo usada para desenvolver novas funcionalidades e preparar o código para lançamentos futuros. Trunk-Based Development foca em commits diretos na main, exigindo alta maturidade da equipe. Um Pull Request é uma solicitação para integrar mudanças, crucial para revisão de código e colaboração segura em equipe.
